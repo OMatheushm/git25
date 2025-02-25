@@ -1,0 +1,8 @@
+git init . -> cria um repositório na pasta atual
+git add nome_arquivo -> add um arquivo para ser commitado
+git add . -> diretório atual
+git add * -> all, ou seja, literal todo
+git status -> mostra o status atual do trabalho (de cada arquivo)
+git commit -m "msg" ->  faz commit do que estaca para ser commitado
+git reset <nome_arquivo>-> alterar um estado de um arquivo
+git diff ->
